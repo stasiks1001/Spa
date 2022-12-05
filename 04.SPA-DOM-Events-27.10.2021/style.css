@@ -1,0 +1,27 @@
+body, div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    border-radius: 50%;
+}
+
+.black {
+  background-color: black;
+  height: 300px;
+  width: 300px;
+}
+
+.red {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.yellow {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}

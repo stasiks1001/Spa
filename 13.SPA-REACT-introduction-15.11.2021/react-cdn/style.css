@@ -1,0 +1,10 @@
+.header{
+    background-color: lightblue;
+    height:250px;
+    
+}
+.footer{
+    height : 200px;
+    background-color: lightskyblue;
+    text-align: center;
+}

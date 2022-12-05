@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+.App {
+    background-color: lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+
+    input {
+        margin: 5px 0;
+    }
+}
